@@ -54,5 +54,3 @@
 [website-in-progress]: https://tender-bassi-b6ed30.netlify.app/
 [twitter]: https://twitter.com/timsmith23
 [linkedin]: https://linkedin.com/in/timsmith25
-# timscodebase
-# timscodebase
