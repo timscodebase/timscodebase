@@ -1,4 +1,4 @@
-# Hi! I'm Tim Smith - aka [WebRuin][website] 👋
+# Hi! I'm Tim Smith
 
 ## I'm a Husband, Developer, and Lover of Life!
 
