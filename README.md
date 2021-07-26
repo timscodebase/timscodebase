@@ -2,4 +2,4 @@
 
 ## I'm a Husband, Developer, and Lover of Life!
 
-### My passion in life is meeting great new people and learning as much as I can about the many things I love! Every day, I find new inspiring things that motivate me to keep moving forward in life and to continue my search for my purpose in life. I believe that my Higher Power put me on this Earth to learn and inspire people to love life.
+### My passion in life is creating. I'm a kickass web developer, so... I build a lot of websites. Go figure, right? I create small pixel-perfect personal websites, fun, quirky web apps, and I also create enterprise-ready e-commerce solutions. My creative brain loves to solve any puzzle and solve problems.
