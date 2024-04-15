@@ -2,6 +2,11 @@
 
 ## I'm a Husband, Developer, and Lover of Life!
 
-### My passion in life is creating. I'm a kickass web developer, so... I build a lot of websites. Go figure, right? I create small pixel-perfect personal websites, fun, quirky web apps, and I also create enterprise-ready e-commerce solutions. My creative brain loves to solve any puzzle and solve problems.
+I'm a passionate web developer who thrives on building creative and functional web experiences.  I leverage my expertise in JavaScript, TypeScript, React, Next.js, Svelte, and Node.js to craft:
 
-My brain works differently than most. Because of this, traditional education is not for me. I have taken a few college courses, but I have learned most of what I know through self-study and experimentation (reverse engineering others websites). I have a passion for learning and I am always looking for new ways to improve my skills and stay current in this rapidly changing landscape.
+Pixel-perfect personal websites
+Interactive and engaging web apps
+Scalable e-commerce solutions
+I'm a problem-solver at heart, and my love for learning fuels my drive to tackle new challenges.  While I took some college courses, I flourish in self-directed learning environments.  I've honed my skills through experimentation (including diving into others' code) and a constant pursuit of knowledge.
+
+I'm always eager to learn new technologies and stay ahead of the curve in this ever-evolving field.  Let's connect and build something awesome together!
