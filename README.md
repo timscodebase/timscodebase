@@ -12,3 +12,5 @@ I'm a problem-solver at heart, and my love for learning fuels my drive to tackle
 I'm always eager to learn new technologies and stay ahead of the curve in this ever-evolving field.  Let's connect and build something awesome together!
 
 Also see my old github account [Webruin](https://www.github.com/webruin)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=timscodebase&theme=highcontrast&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
