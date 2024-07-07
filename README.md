@@ -1,31 +1,62 @@
-# Hi! I'm Tim Smith
-## Husband, Developer, and Lover of Life
+# Hi! I'm Tim Smith 👋
 
-I'm a passionate web developer who thrives on building creative and functional web experiences. I leverage my expertise in JavaScript, TypeScript, React, Next.js, Svelte, and Node.js to craft:
+Husband, Developer, and Lover of Life 💖
 
-- Pixel-perfect personal websites
-- Interactive and engaging web apps
-- Scalable e-commerce solutions
+---
+
+**Senior Frontend Developer** with 8+ years of experience crafting engaging, high-performance web applications. I specialize in **Svelte**, **React** and **Next.js**, building mobile-first, user-centric designs that drive user engagement and deliver results.
+
+## 🚀 Skills
+
+- **Frontend Expertise:** React, Next.js, Svelte, Redux, HTML, CSS, JavaScript
+- **Backend & More:** Node.js, Python, Ruby on Rails, REST APIs, JSON
+- **Tools & Workflow:** Git, Unit Testing, WCAG 2.x Compliance, Figma, Jenkins, VSCode, FireBug
+
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=timscodebase&theme=highcontrast&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-### About Me
-I'm a problem-solver at heart, with a deep love for learning that drives me to tackle new challenges. While I've taken some college courses, I excel in self-directed learning environments. I've honed my skills through experimentation, diving into others' code, and a constant pursuit of knowledge.
+**2022**
+![Tetris Style Github Contributions](./img/tetris_github_2022.png)
+**2023**
+![Tetris Style Github Contributions](./img/tetris_github_2023.png)
+**2024**
+![Tetris Style Github Contributions](./img/tetris_github_2024.png)
 
-### My Skills
-- Languages: JavaScript, TypeScript
-- Frameworks/Libraries: React, Next.js, Svelte
-- Backend: Node.js
-- Other: HTML, CSS, Git, REST APIs
+---
 
-### Let's Connect
-I'm always eager to learn new technologies and stay ahead of the curve in this ever-evolving field. Let's connect and build something awesome together!
+## ✨ About Me
 
-### More About Me
-- Check out my old GitHub account: Webruin
-- LinkedIn [timsmith25](https://www.linkedin.com/timsmith25)
-- Portfolio [Tim Smith](https://Timsmith.tech)
+I'm a passionate problem-solver and lifelong learner. My journey includes formal education and a strong emphasis on self-directed learning. I thrive on experimentation, diving into code, and constantly expanding my knowledge.
 
-- 🔭 I’m currently working on **Tanjro based on Svelte Components**
-- 🌱 I’m currently learning **Lucia Auth + Prisma, Drizzle ORM**
-- 👯 I’m looking to collaborate on **Svelte & SvelteKit Related Projects**
+**What Sets Me Apart:**
+
+- **Proven Results:** Delivered 50+ websites as a freelancer, boosting SEO, UX, and client engagement.
+- **Impactful Contributions:** Improved conversion rates by 20% at GAP, INC. through streamlined checkout and led a successful transition to microservices.
+- **Collaborative Spirit:** Excel in cross-functional teams, mentoring junior developers and ensuring seamless integration between frontend and backend.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to connect with fellow developers, explore new opportunities, and collaborate on innovative projects. Feel free to reach out through my website or LinkedIn.
+
+---
+
+## 🔍 More About Me
+
+- **LinkedIn:** [timsmith25](https://linkedin.com/timsmith25)
+- **Portfolio:** [timsmith.tech](https://Timsmith.tech)
+- **Old GitHub Account:** [webruin](https://github.com/webruin)
+
+## 🌱 Currently...
+
+- **Working on:**
+
+- [TransparentUI Svelte Library](https://github.com/timscodebase/trans-ui-lib)
+
+- **Learning:**
+
+  - [HTMX](https://htmx.org)
+  - [TypeScript](https://www.typescriptlang.org)
+  - [JSDocs](https://jsdoc.app)
