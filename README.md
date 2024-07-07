@@ -16,11 +16,8 @@ Husband, Developer, and Lover of Life 💖
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=timscodebase&theme=highcontrast&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-**2022**
 ![Tetris Style Github Contributions](./img/tetris_github_2022.png)
-**2023**
 ![Tetris Style Github Contributions](./img/tetris_github_2023.png)
-**2024**
 ![Tetris Style Github Contributions](./img/tetris_github_2024.png)
 
 ---
