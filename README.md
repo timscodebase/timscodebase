@@ -4,7 +4,7 @@ Husband, Developer, and Lover of Life 💖
 
 ---
 
-**Senior Frontend Developer** with 19+ years of experience crafting engaging, high-performance web applications. I specialize in **Svelte**, **React**, and **Next.js**, building mobile-first, user-centric designs that drive user engagement and deliver results.
+**Senior Frontend Developer** with 15+ years of experience crafting engaging, high-performance web applications. I specialize in **Svelte**, **React**, and **Next.js**, building mobile-first, user-centric designs that drive user engagement and deliver results.
 
 ## 🚀 Skills
 
