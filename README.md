@@ -1,7 +1,5 @@
 # Hi! I'm Tim Smith 👋
 
-Husband, Developer, and Lover of Life 💖
-
 ---
 
 **Senior Frontend Developer** with 15+ years of experience crafting engaging, high-performance web applications. I specialize in **Svelte**, **React**, and **Next.js**, building mobile-first, user-centric designs that drive user engagement and deliver results.
@@ -44,12 +42,4 @@ I'm always excited to connect with fellow developers, explore new opportunities,
   - HTMX: https://htmx.org
   - TypeScript: https://www.typescriptlang.org
   - JSDocs: https://jsdoc.app
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=timscodebase&theme=highcontrast&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-![Tetris Style Github Contributions](./img/tetris_github_2024.png)
-![Tetris Style Github Contributions](./img/tetris_github_2023.png)
-![Tetris Style Github Contributions](./img/tetris_github_2022.png)
 
